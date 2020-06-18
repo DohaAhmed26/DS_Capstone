@@ -6,11 +6,14 @@ that is suitable for their living and raising a family. This problem is directed
 The data collected will be in the form of geographical information in a JSON file and information about neighborhoods
 and and venues within Manhattan Newyork using the Foursquare API. The data include latitude and longitude information about each neighborhood. It also includes information about venues such as restaurants, cafes, bars, pizza places, grocery stores, parks or gyms. The dataset could help in gaining information about common places.
 
-Methodology section 
+###### Methodology section 
 
-Results section
+The New York City data was cleaned to focus only on Manhattan which resulted on focusing on 40 neighborhood. One hot encoding was applied in order to apply k-means clustering algorithm. The algorithm was selected because we wanted to understand which venues are more common in each neighborhood which could help the decision maker in deciding which neighborhood is best for living.
 
-Discussion section 
+###### Results section
+Results included grouping the neighborhoods into four clusters while showcasing the top 8 most commonly visited venues in each neighboorhood. A sample was printed from each cluster to propose suggestions for the buyers.
+
+###### Discussion section 
 
 
-Conclusion section
+###### Conclusion section
