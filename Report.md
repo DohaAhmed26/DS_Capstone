@@ -14,6 +14,14 @@ The New York City data was cleaned to focus only on Manhattan which resulted on 
 Results included grouping the neighborhoods into four clusters while showcasing the top 8 most commonly visited venues in each neighboorhood. A sample was printed from each cluster to propose suggestions for the buyers.
 
 ###### Discussion section 
-
+Clustering has helped in indentifying common venues within each neighborhood ensuring that the buyer could have a variety of selection to choose from and base their decision.
 
 ###### Conclusion section
+In conclusion, Some of the recommended neighborhoods include the following:
+
+-Inwood.
+-Hamilton Heights.
+-Stuyvesant Town.
+-Morningside Heights.
+-Manhattanville.
+-Upper East Side.
